@@ -1,11 +1,12 @@
 {
-  "name": "sola_mqtt",
+  "name": "dataset_generator",
   "version": "1.0.0",
   "main": "index.js",
   "author": "iotcat <i@iotcat.me>",
   "license": "MIT",
   "dependencies": {
     "mqtt": "^3.0.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "redis": "^3.0.2"
   }
 }
